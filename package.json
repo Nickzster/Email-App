@@ -1,0 +1,8 @@
+{
+  "name": "email-app",
+  "version": "1.0.0",
+  "description": "File reference for an email app that I wrote for an API",
+  "main": "index.js",
+  "author": "Nick Zimmermann",
+  "license": "MIT"
+}
